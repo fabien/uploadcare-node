@@ -1,5 +1,5 @@
 {
-  "name": "uploadcare",
+  "name": "@atelierfabien/uploadcare",
   "version": "0.4.1",
   "description": "Library for uploadcare.com.",
   "keywords": [
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rexmorgan/uploadcare-node.git"
+    "url": "https://github.com/fabien/uploadcare-node.git"
   },
   "engines": {
     "node": ">= v0.8.0"
