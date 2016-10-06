@@ -1,5 +1,5 @@
 {
-  "name": "@atelierfabien/uploadcare",
+  "name": "uploadcare",
   "version": "0.4.1",
   "description": "Library for uploadcare.com.",
   "keywords": [
